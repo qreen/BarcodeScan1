@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_textview_border.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_import.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_clean.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_clean.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_avtivity_summ.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\avtivity_summ.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_check_stock.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-hdpi\\check_stock.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_scan.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-ldpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_serial_num_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_serial_num_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_erp_data_serial_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_erp_data_serial_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\xml_scanner_settings.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\xml\\scanner_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_home_selector.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable\\home_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_clean.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-ldpi\\clean.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_import_img.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-hdpi\\import_img.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_paramter.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_paramter.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_good_allocation.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_good_allocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_scan.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_good_allocation_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_good_allocation_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_clear_scan.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_clear_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_textview_border_item.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable\\textview_border_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_import.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_summary.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_query_way.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_query_way.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_import_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_import_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b05f0e5df50d0c292a2bbbb2ec94380e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_setting.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-ldpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_home.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e193507c0348cd626dfce8830cd57bf9\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\build\\intermediates\\res\\merged\\release\\layout_item_serial_num_query.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\BarcodeScan1\\app\\src\\main\\res\\layout\\item_serial_num_query.xml"
+    }
+]
